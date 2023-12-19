@@ -5,7 +5,7 @@ NFL point spread and over/under point total prediction/analyzation application u
 
 The following notebooks were used in testing and development of models, and general analysis of the dataset
 
-1. ['spread-prediction.ipynb']: data engineering and data analysis on predicting spread and performace of various ml models
+1. [`spread-prediction.ipynb`]: data engineering and data analysis on predicting spread and performace of various ml models
 
 ['spread-prediction.ipynb']: https://github.com/jackwwhitaker/Analines/blob/main/notebooks/spread-prediction.ipynb 
 
