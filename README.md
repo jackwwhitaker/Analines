@@ -7,7 +7,7 @@ The following notebooks were used in testing and development of models, and gene
 
 1. [`spread-prediction.ipynb`]: data engineering and data analysis on predicting spread and performace of various ml models
 
-['spread-prediction.ipynb']: https://github.com/jackwwhitaker/Analines/blob/main/notebooks/spread-prediction.ipynb 
+[`spread-prediction.ipynb`]: https://github.com/jackwwhitaker/Analines/blob/main/notebooks/spread-prediction.ipynb 
 
 ## Usage
 
