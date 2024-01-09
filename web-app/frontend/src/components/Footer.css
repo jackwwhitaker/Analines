@@ -1,0 +1,31 @@
+.footer{
+    padding: 0.5rem;
+    color:#fff;
+    background: #000;
+}
+
+.footertitle {
+    font-size: 1rem;
+    font-weight: 500;
+}
+
+.footerlist {
+    font-size: 12px;
+    margin-bottom: 10px;
+}
+
+.footerlink {
+    cursor: pointer;
+    display: flex;
+    color: #fff;
+    text-decoration: none;
+}
+.footerlink:hover {
+    color: #ff6c36;
+    transition: all 0.2s ease-in-out;
+}
+
+.line {
+    border: 1px solid #fff;
+    margin-bottom: 10px;
+}
